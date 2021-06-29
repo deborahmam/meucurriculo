@@ -1,0 +1,106 @@
+div{
+    background-color: white;
+    padding: 10% 10%;
+}
+body {
+    border: 5px solid rgb(65, 188, 197);
+    background-color:rgb(248, 248, 248);
+    color: rgb(250, 245, 245);
+    padding: 5% 5%;
+    margin: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhttSTfU236jNZx1ti9q7Av29kuidX-FcHRg&usqp=CAU);
+    background-position: 10px 10px;
+
+}
+
+img {
+    width: 200px;
+    height: 50%;
+    object-fit: fill;
+    border-radius: 50%;
+    border: 5px solid rgb(65, 188, 197);
+    display: inline-block;
+ 
+}
+
+h1 {
+    display: inline-block;
+}
+
+
+h2{
+    background-color: rgb(248, 248, 248);
+    width: auto;
+    color: black;
+    font-size:30px;
+    font-style: italic;
+    font-weight: 500;  
+}
+
+li{
+    background-color: white;
+    color: black;
+    white-space: pre-line;
+    width: auto;
+}
+
+ul{
+    background-color: white;
+    color: black;
+    white-space: pre-line;
+    width: auto;
+}
+
+p{
+    background-color: white;
+    color: black;
+    white-space: pre-line;
+    width: auto;
+}
+
+
+.principal{
+    background-color: white;
+    border-bottom: 2px dotted rgb(92, 159, 168);
+    color: black;
+    font-size:32px;
+    font-style: italic;
+    font-weight: 900;
+    display: inline-block;
+}
+
+
+.contato{
+    background-color: white;
+    border-bottom: 2px dotted rgb(65, 188, 197)
+}
+
+.pessoais{
+    background-color: white;
+    border-bottom: 2px dotted rgb(65, 188, 197)
+}
+
+.formação{
+    background-color: white;
+    border-bottom: 2px dotted rgb(65, 188, 197)
+}
+.experiencia{
+    background-color: white;
+    border-bottom: 2px dotted rgb(65, 188, 197)
+}
+.habilidade{
+    background-color: white;
+    border-bottom: 2px dotted rgb(65, 188, 197)
+}
+.linguas{
+    background-color: white;
+    border-bottom: 2px dotted rgb(65, 188, 197)
+}
+.extra-curriculares{
+    background-color: white;
+    border-bottom: 2px dotted rgb(65, 188, 197)
+  
+}
+
+
